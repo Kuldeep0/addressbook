@@ -1,5 +1,4 @@
 Created pipeline
-HELLO
 Addressbook Tutorial
 ====================
 
